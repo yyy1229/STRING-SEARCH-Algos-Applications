@@ -1,0 +1,10 @@
+Package: Bruteforce
+Type: Package
+Title: string search
+Version: 0.1.0
+Author: haomingchen
+Maintainer: The package maintainer <yyue@hsph.harvrad.edu>
+Description: MEXACT STRING SEARCH Algos
+License: GPL (>=2)
+Encoding: UTF-8
+RoxygenNote: 7.1.2

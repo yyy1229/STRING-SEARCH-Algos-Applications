@@ -1,0 +1,6 @@
+KMP                     KMP
+KMPSearch               KMPSearch
+baseline                baseline
+buildNext               buildNext
+match                   match
+rabin_karp              rabin_karp
